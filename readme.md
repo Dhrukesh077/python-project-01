@@ -1,12 +1,10 @@
 # 🧩 Fundamental Booster – Interactive Personal Data Collector (Python)
-
-![Banner](./images/Screenshot-2026-01-07-181456.png)
-
-> **Course / Program:** Fundamental Booster – Python (Data Science)  \
-> **Organization:** Red & White Skill Education  \
-> **Tagline:** *Shaping skills for scaling higher…!!!*
-
 ---
+
+
+
+
+
 
 ## 📌 Project Overview
 
@@ -105,36 +103,12 @@ print("\nThank you for using the Personal Data Collector. Goodbye!")
 
 - Displays processed results in a friendly and readable format
 
----
 
-## 🖥️ Example Console Output
-
-![Program Output](./images/python-pr-01-output.png.png)
 
 ---
 
-## 📂 Project Structure
 
-```text
-Fundamental-Booster/
-│
-├── pr-01.py                  # Main Python source code
-├── README.md                 # Project documentation
-└── images/
-    ├── Screenshot-2026-01-07-181456.png
-    ├── Screenshot-2026-01-07-181502.png
-    ├── Screenshot-2026-01-07-181511.png
-    ├── Screenshot-2026-01-07-181918.png
-    └── python-pr-01-output.png.png
-```
 
----
-
-## 🧾 Code Screenshot
-
-![Code Screenshot](./images/Screenshot-2026-01-07-181918.png)
-
----
 
 ## 📝 Assumptions
 
@@ -170,14 +144,8 @@ Fundamental-Booster/
 
 ---
 
-## 🙌 Acknowledgment
 
-This project is completed as part of the **Fundamental Booster – Python (Data Science)** program by **Red & White Skill Education**.
 
-> **Quality is our Motto.**  \
-> **BRING ON YOUR CODING ATTITUDE 💻🔥**
-
----
 
 ⭐ *If you like this project, don’t forget to star the repository!*
 

@@ -2,10 +2,6 @@
 ---
 
 
-
-
-
-
 ## 📌 Project Overview
 
 This project is a **beginner-friendly Python console application** that collects personal information from the user, processes it using **core Python concepts**, and displays the results in a clean, formatted way.
